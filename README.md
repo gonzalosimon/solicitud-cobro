@@ -1,5 +1,8 @@
 ### You can check the live version of the project here: https://master--solicitud-cobro.netlify.app/
 
+![Screenshot 2023-09-18 114017](https://github.com/gonzalosimon/solicitud-cobro/assets/53063584/1110f35e-d4a7-4dbd-a2e0-44468e78aa2f)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
